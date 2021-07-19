@@ -1,0 +1,14 @@
+defaults
+
+account gmail
+host smtp.gmail.com
+tls on
+tls_starttls on
+tls_certcheck off
+port 587
+auth login
+from
+user
+password
+
+account default: gmail
